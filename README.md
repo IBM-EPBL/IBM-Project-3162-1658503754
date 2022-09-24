@@ -1,7 +1,7 @@
 # IBM-Project-3162-1658503754
 Global Sales Data Analytics
 
-#ASSIGNMENT 1
+#ASSIGNMENT 1 (BY GOWTHAM)
 
 CSV FILE-https://us3.ca.analytics.ibm.com/bi/?perspective=home&folder=iCBE8A1F1047F4DCF921EEDC1A331D025
 
@@ -14,7 +14,7 @@ VISUALIZATION-https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef
 VISUALTION IN PIE CHART-https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FASSIGNMENT%2B1%2F50_Startupcompanyvisualpie&action=view&mode=dashboard
 
 
-#ASSIGNMENT 2
+#ASSIGNMENT 2 (BY GOWTHAM)
 
 CSV FILE-https://us3.ca.analytics.ibm.com/bi/?perspective=home&folder=i296BC5FB8F2844D7A887124A5ECA4DC5
 
